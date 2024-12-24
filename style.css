@@ -114,8 +114,8 @@ background-color: rgb(140, 137, 137);
 }
 .card-1{
     background-color: rgba(189, 191, 193, 0.871);
-    border: 2px solid black;
- 
+    border: 1px solid black;
+    
     box-shadow: 5px 5px 5px rgb(100, 96, 96);
     margin-left: 100px;
     margin-top: 150px ;
@@ -140,7 +140,7 @@ background-color: rgb(140, 137, 137);
 }
 .card-2{
     background-color: rgba(189, 191, 193, 0.871);
-    border: 2px solid black;
+    border: 1px solid black;
     box-shadow: 5px 5px 5px rgb(100, 96, 96);
     margin-left: 100px;
     margin-top: 150px;
@@ -166,7 +166,7 @@ background-color: rgb(140, 137, 137);
 }
 .card-3{
     background-color: rgba(189, 191, 193, 0.871);
-    border: 2px solid black;
+    border: 1px solid black;
     box-shadow: 5px 5px 5px rgb(100, 96, 96);
     margin-left: 100px;
     margin-top: 150px ;
@@ -282,7 +282,7 @@ background-color: rgb(140, 137, 137);
 /*--fourth section--*/
 
 .contact-me{
-    background-image: linear-gradient(to bottom right, rgb(146, 27, 69, 0.467),rgba(128, 128, 128, 0.104),rgba(146, 27, 69, 0.467));
+    background-image: linear-gradient(to bottom right,rgba(255, 192, 203, 0.378),rgb(253, 251, 251),rgba(146, 27, 69, 0.33));
     height:30vw;
     width:100vw;
 
@@ -418,7 +418,7 @@ display: block;
     width:100%;
 }
 .card-1 {
-    margin-left: -12px;;
+   margin-left: -26px;
     margin-top: 25px;
     height: 323px;
 }
@@ -443,7 +443,8 @@ display: block;
     padding-left: 53px;
 }
 .card-3 {
-    margin-left: -291px;
+    
+  margin-left: -287px;
     margin-top: 780px;
     height: 323px;
 
@@ -513,4 +514,5 @@ display: block;
     margin-top: 4px;
     margin-bottom: -13px;
 }
+
 }
